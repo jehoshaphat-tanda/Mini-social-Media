@@ -153,4 +153,7 @@ require_once "includes/header.php";
 // Include the shared page footer.
 require_once "includes/footer.php";
 // End the PHP section.
+
+
 ?>
+
